@@ -1,0 +1,69 @@
+footer
+{
+    width: 100%;
+    height:150px;
+    background-color: #464646;
+}
+
+#left-div-footer
+{
+    float: left;
+    width: 220px;
+    height: 100%;
+}
+
+#right-div-footer
+{
+    float: left;
+    width: 680px;
+    height: 100%;
+}
+
+footer table
+{
+    margin-top: 10px;
+}
+
+footer table tr a
+{
+     color:#ffc229;
+    text-decoration: none;
+}
+
+footer table tr th
+{
+    text-align: left;
+    height:40px;
+    color:#ffc229;     
+}
+
+footer table tr a:hover
+{
+    color: #252525;    
+}
+
+footer i
+{
+    font-size: 40px;
+    margin-top:50px;
+    margin-left: 22px;
+}
+
+footer i:hover
+{
+    color:#ffc229; 
+}
+
+#left-div-footer a
+{
+    text-decoration: none;
+    color: #252525;
+}
+
+#time
+{
+    float: right;
+    padding-right:10px;
+    text-align: center;
+    width: 100%;
+}

@@ -1,0 +1,71 @@
+.body-container
+{
+    clear: both;
+    width: 100%;
+    height:1000px;
+    background-color: #252525;
+    padding-top: 20px;
+}
+
+.info_div
+{
+    width:510px;
+    height:400px;
+    margin: auto;
+    margin-top:0px;
+}
+
+#about_us_title h3
+{
+    width:500px;
+    height:25px;
+    margin: auto;
+    margin-top:0px;
+    text-align: center;
+    color: #ffc229;
+}
+
+.profile
+{
+    width:250px;
+    height: 100%;
+    background-color:#464646;
+    float:left;
+    border-radius: 18px;
+}
+
+#profile_2
+{
+    margin-left:10px;
+}
+
+#profile_1:hover
+{
+    background-color:#ffc229;
+}
+
+#profile_2:hover
+{
+    background-color:#ffc229;
+}
+
+#first_profile_pic
+{
+    width: 140px;
+    height: 140px;
+    background-color: aquamarine;
+    border-radius:50%;
+    margin: auto;
+    margin-top:20px;
+    clear: both;
+}
+
+.name
+{
+    text-align: center;
+}
+
+.profile p
+{
+    text-align: center;
+}

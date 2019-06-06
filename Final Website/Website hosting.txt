@@ -1,0 +1,4 @@
+We upload the website on a host in order to be easy to open the website , and test it on several devices.
+
+our website URL:
+http://i360601.hera.fhict.nl/housing/index.php

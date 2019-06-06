@@ -1,0 +1,33 @@
+.body-container
+{
+    clear: both;
+    width: 100%;
+    height:1000px;
+    background-color: #252525;
+    padding-top: 20px;
+}
+
+#contact_us_div
+{
+   width:500px;
+    height: 300px;
+    margin: auto;
+    background-color: red;
+    border-radius:18px;
+    padding-left: 30px;
+    background-color: #464646;
+    border-radius: 18px;
+    color: #ffc229;
+}
+
+#contact_us_div h3
+{
+     text-align: center;
+    padding-top: 10px;
+}
+ 
+#contact_us_div p
+{
+    text-align: center;
+    margin-top: 40px;
+}

@@ -1,0 +1,100 @@
+.body-container
+{
+    clear: both;
+    width: 100%;
+    height:1000px;
+    background-color: #252525;
+    padding-top: 20px;
+}
+
+.register 
+{
+    width:500px;
+    height: 350px;
+    margin: auto;
+    background-color: red;
+    border-radius:18px;
+    padding-left: 30px;
+    background-color: #464646;
+    border-radius: 18px;
+    color: #ffc229;
+}
+
+.register h3
+{
+    text-align: center;
+    padding-top: 10px;
+}
+
+#signup-label
+{
+   
+}
+
+#firstname-input
+{
+    margin-left: 68px;
+    border-radius: 8;
+}
+
+#Last-Name-input
+{
+    margin-left: 70px;
+     border-radius: 8;
+}
+
+#Email-signup-input
+{
+    margin-left: 101px;
+     border-radius: 8;
+}
+
+#password1-input
+{
+    margin-left: 78px;
+     border-radius: 8;
+}
+
+#password2-input
+{
+    margin-left: 20px;
+     border-radius: 8;
+}
+
+#signup-button
+{
+  background-color:#ffc229;
+    border-bottom-style:none;
+    width:120px;
+    height: 30px;
+    font-weight: bold;
+    margin-top: 10px;
+    border-radius: 6px;
+    margin-left:145px;
+} 
+
+#signup-button:hover
+{
+    background-color:#ffc350;
+}
+
+#signup-button:active
+{
+     background-color:#ffc300;
+}
+
+.red
+{
+    color: red;
+}
+
+.email_paragraph
+{
+    margin-left: 145px;
+}
+
+.password_paragraph
+{
+    margin-left: 120px;
+    
+}
